@@ -8,4 +8,4 @@
 
 ## Remarks
 1. Use Integrated Logic Analyzer (ILA) in Xilinx Vivado to check the output waveform
-2. main clock can change to 10ns/20ns period
+2. main clock can change to 10ns/20ns period without ILA
